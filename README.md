@@ -18,7 +18,7 @@ In the `Spree::Admin::OrdersController#edit` view, you'll find an additional but
 
 Add to your `Gemfile`
 ```ruby
-gem 'spree_print_invoice', github: 'spree-contrib/spree_print_invoice', branch: 'master'
+gem 'spree_print_invoice', github: 'ShopFelixGray/spree_print_invoice', branch: 'master'
 ```
 
 Run
